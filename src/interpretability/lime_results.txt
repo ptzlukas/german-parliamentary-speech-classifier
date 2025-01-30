@@ -1,0 +1,100 @@
+
+   0: ['umwelt', 'landwirtschaft', 'naturschutz', 'klimakrise'], --> 
+    1: ['soziales', 'bildung'],
+    2: ['wirtschaft', 'finanzen'],
+    3: ['außen', 'sicherheitspolitik'],
+    4: ['Infrastruktur', 'Verkehr', 'Digitalisierung'],
+    5: ['Gesundheit', 'Covid19'] 
+}
+
+
+Label 0 (umwelt, landwirtschaft, naturschutz und klimakrise ):
+Top-Features:
+feature_18: 0.023 (holz, europäischer, bundeskartellamt, abzuwarten, prüfstand, evaluierung)",
+feature_114: 0.018: (umweltverbände, augenmerk, gewarnt, kraft, fokus, stellung)",             
+feature_112: 0.016 (tonnen, emissionen, frauenanteil, quo, westfalen, grunderwerbsteuer)
+feature_120: 0.016 (ländlichen, freiwilliger, hebammen, gewerbesteuer, planungssicherheit, arbeitsplätze)",
+
+Label 1 ('soziales', 'bildung'):
+Top-Features:
+feature_64: 0.0286 -> (unterbringung, unterkunft, miete, minderjährige, minderjährigen, asylbewerberleistungsgesetz, kinderrechtskonvention, verpflegung)
+feature_25: 0.0265 -> (patienten, lehrkräfte, kritikpunkte, fällen, familienpolitische, psychosoziale)
+feature_50: 0.024: -> (generationen, pisa, milliarden, bildung, grundstein, soziales, armuts)
+
+Label 2 ('wirtschaft', 'finanzen'):
+Top-Features:
+feature_21: 0.0198: "bürger", "klimafonds", "kommission", "fracking", "bundesrechnungshof". 
+feature_15: 0.0198: "freihandel", "kaufkraft", "wasser", "symptomen"
+feature_118: 0.0178: "stabilitäts", "sicherungsverwahrung", "wachstumspakt", "bologna", "maastricht"
+feature_134: 0.0196 spiegelt, spiegeln, marktwirtschaft, progression, landtagswahlen, klasse, bürokratie
+
+Label 3 ('außen', 'sicherheitspolitik'):
+Top-Features:
+feature_64: 0.0286 -> (unterbringung, unterkunft, minderjährigen, asylbewerberleistungsgesetz, kinderrechtskonvention)
+feature_18: 0.0216 -> (holz, europäischer, osze, abzuwarten, evaluierung, europäischen)
+feature_110: 0.019: (kioto, gegebene, signal, russland, erneuerbaren, kommenden, energieintensive)
+feature_126: 0.177 (krieg, sowjetunion, taliban, hunger, hitler, kindersoldaten, zerstörung, armee)",
+
+Label 4 (Umwelt- und Infrastrukturpolitik):
+Top-Features:
+feature_38: 0.0209: (sportler, athleten, sports, sportvereine, schmidt, ard, kinder, führende) 
+feature_143: 0.0202: (landesregierung, versorgungssicherheit, geraumer, demokratischer, verbrauchern)
+feature_81: 0.0195: (älter, barrierefreiheit, anpassung, barrieren, renteneintrittsalter, demografischen, elektronischen, verhinderten)"
+
+Label 5 (Gesundheit, Corona):
+Top-Features:
+feature_135: 0.0219 -> (insolvenz, erstens, taschen, daraus, türen, arbeitskräfte, kooperationen, kindergärten)
+feature_35: 0.0217 -> (armut, regierungserklärung, rentnern, rentner, bundeskanzlerin, eckardt, merkel, gerechten, leyen)
+feature_22: 0.0203 (krankenversicherung, generationen, doppelstrukturen, altersarmut, auges)",
+
+
+Metaebene:
+
+Label 0: Wirtschaft, Arbeitsmarkt, Landwirtschaft.
+Label 1: Soziale Gerechtigkeit, Flüchtlingsschutz, soziale Absicherung.
+Label 2: Wirtschaft und Finanzierungs Themen, Bürgerbeteiligung.
+Label 3: Wirtschaft, Migration, Russland, Internationales
+Label 4: Infrastruktur, Umweltpolitik, nachhaltige Ressourcennutzung
+Label 5: Wirtschaft, Insolvenz, Armutsbekämpfung
+
+
+
+\chapter{Beispiel 1}
+
+\begin{table}[]
+    \centering
+    \begin{tabular}{|c|c|p{10cm}|}
+        \hline
+        \textbf{Label} & \textbf{Feature Importance} & \textbf{Feature} \\
+        \hline
+        \multirow{4}{*}{0}  
+        & 0.023  & holz, europäischer, bundeskartellamt, abzuwarten, prüfstand, evaluierung \\ \cline{2-3}
+        & 0.018  & umweltverbände, augenmerk, gewarnt, kraft, fokus, stellung \\ \cline{2-3}
+        & 0.016  & tonnen, emissionen, frauenanteil, quo, westfalen, grunderwerbsteuer \\ \cline{2-3}
+        & 0.016  & ländlichen, freiwilliger, hebammen, gewerbesteuer, planungssicherheit, arbeitsplätze \\ \hline
+        \multirow{3}{*}{1}  
+        & 0.0286 & unterbringung, unterkunft, miete, minderjährige, minderjährigen, asylbewerberleistungsgesetz, kinderrechtskonvention, verpflegung \\ \cline{2-3}
+        & 0.0265 & patienten, lehrkräfte, kritikpunkte, fällen, familienpolitische, psychosoziale \\ \cline{2-3}
+        & 0.024  & generationen, pisa, milliarden, bildung, grundstein, soziales, armuts \\ \hline
+        \multirow{4}{*}{2}  
+        & 0.0198 & bürger, klimafonds, kommission, fracking, bundesrechnungshof \\ \cline{2-3}
+        & 0.0198 & freihandel, kaufkraft, wasser, symptomen \\ \cline{2-3}
+        & 0.0178 & stabilitäts, sicherungsverwahrung, wachstumspakt, bologna, maastricht \\ \cline{2-3}
+        & 0.0196 & spiegelt, spiegeln, marktwirtschaft, progression, landtagswahlen, klasse, bürokratie \\ \hline
+        \multirow{4}{*}{3}  
+        & 0.0286 & unterbringung, unterkunft, minderjährigen, asylbewerberleistungsgesetz, kinderrechtskonvention \\ \cline{2-3}
+        & 0.0216 & holz, europäischer, osze, abzuwarten, evaluierung, europäischen \\ \cline{2-3}
+        & 0.019  & kioto, gegebene, signal, russland, erneuerbaren, kommenden, energieintensive \\ \cline{2-3}
+        & 0.0177 & krieg, sowjetunion, taliban, hunger, hitler, kindersoldaten, zerstörung, armee \\ \hline
+        \multirow{3}{*}{4}  
+        & 0.0209 & sportler, athleten, sports, sportvereine, schmidt, ard, kinder, führende \\ \cline{2-3}
+        & 0.0202 & landesregierung, versorgungssicherheit, geraumer, demokratischer, verbrauchern \\ \cline{2-3}
+        & 0.0195 & älter, barrierefreiheit, anpassung, barrieren, renteneintrittsalter, demografischen, elektronischen, verhinderten \\ \hline
+        \multirow{3}{*}{5}  
+        & 0.0219 & insolvenz, erstens, taschen, daraus, türen, arbeitskräfte, kooperationen, kindergärten \\ \cline{2-3}
+        & 0.0217 & armut, regierungserklärung, rentnern, rentner, bundeskanzlerin, eckardt, merkel, gerechten, leyen \\ \cline{2-3}
+        & 0.0203 & krankenversicherung, generationen, doppelstrukturen, altersarmut, auges \\ \hline
+    \end{tabular}
+    \caption{Feature Importance für verschiedene Labels}
+    \label{tab:lime_results}
+\end{table}

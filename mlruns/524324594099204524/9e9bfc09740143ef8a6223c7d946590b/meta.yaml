@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/parliamentary-speech-classifier/mlruns/524324594099204524/9e9bfc09740143ef8a6223c7d946590b/artifacts
+deleted_time: 1738163664579
+end_time: 1738163445952
+entry_point_name: ''
+experiment_id: '524324594099204524'
+lifecycle_stage: deleted
+run_id: 9e9bfc09740143ef8a6223c7d946590b
+run_name: test
+run_uuid: 9e9bfc09740143ef8a6223c7d946590b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738163444824
+status: 3
+tags: []
+user_id: ptzlukas

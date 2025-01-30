@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/topic_classifier/mlruns/176166482375069725/06efa2b5cbf14b2d90ad6fbb7799291a/artifacts
+deleted_time: 1737658862219
+end_time: 1737652130289
+entry_point_name: ''
+experiment_id: '176166482375069725'
+lifecycle_stage: deleted
+run_id: 06efa2b5cbf14b2d90ad6fbb7799291a
+run_name: bagging_B_w2v_opt
+run_uuid: 06efa2b5cbf14b2d90ad6fbb7799291a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737652130277
+status: 3
+tags: []
+user_id: ptzlukas

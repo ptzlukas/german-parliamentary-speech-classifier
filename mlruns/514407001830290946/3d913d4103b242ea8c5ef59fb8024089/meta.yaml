@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/topic_classifier/mlruns/514407001830290946/3d913d4103b242ea8c5ef59fb8024089/artifacts
+end_time: 1737663179824
+entry_point_name: ''
+experiment_id: '514407001830290946'
+lifecycle_stage: active
+run_id: 3d913d4103b242ea8c5ef59fb8024089
+run_name: bundestag_bert_training
+run_uuid: 3d913d4103b242ea8c5ef59fb8024089
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737663074913
+status: 3
+tags: []
+user_id: ptzlukas

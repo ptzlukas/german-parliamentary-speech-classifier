@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/topic_classifier/mlruns/401844395739167857/7414ba9b0a574914b9443343bcebccc2/artifacts
+end_time: 1737850859623
+entry_point_name: ''
+experiment_id: '401844395739167857'
+lifecycle_stage: active
+run_id: 7414ba9b0a574914b9443343bcebccc2
+run_name: svm
+run_uuid: 7414ba9b0a574914b9443343bcebccc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737850859533
+status: 3
+tags: []
+user_id: ptzlukas

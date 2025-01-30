@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/Bundestagsreden_NLP/mlruns/0/38cef045c29e4098985415fdc2414bdc/artifacts
+deleted_time: 1737405286666
+end_time: 1737405213822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 38cef045c29e4098985415fdc2414bdc
+run_name: bagging_gamma_scale
+run_uuid: 38cef045c29e4098985415fdc2414bdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737405213770
+status: 3
+tags: []
+user_id: ptzlukas

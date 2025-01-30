@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/Bundestagsreden_NLP/mlruns/0/d3358c5a2d244c52a9e13ae8ead140bb/artifacts
+deleted_time: 1736907746954
+end_time: 1736906848651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d3358c5a2d244c52a9e13ae8ead140bb
+run_name: valuable-hound-313
+run_uuid: d3358c5a2d244c52a9e13ae8ead140bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736906848307
+status: 3
+tags: []
+user_id: ptzlukas

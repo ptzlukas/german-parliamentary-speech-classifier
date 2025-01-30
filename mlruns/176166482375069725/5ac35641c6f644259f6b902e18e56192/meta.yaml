@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/topic_classifier/mlruns/176166482375069725/5ac35641c6f644259f6b902e18e56192/artifacts
+deleted_time: 1737658862233
+end_time: 1737651958407
+entry_point_name: ''
+experiment_id: '176166482375069725'
+lifecycle_stage: deleted
+run_id: 5ac35641c6f644259f6b902e18e56192
+run_name: lr_B_w2v_opt
+run_uuid: 5ac35641c6f644259f6b902e18e56192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737651958395
+status: 3
+tags: []
+user_id: ptzlukas

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/parliamentary-speech-classifier/mlruns/524324594099204524/205eca4eeade4765b82491c3710188cb/artifacts
+deleted_time: 1738163664581
+end_time: 1738074590238
+entry_point_name: ''
+experiment_id: '524324594099204524'
+lifecycle_stage: deleted
+run_id: 205eca4eeade4765b82491c3710188cb
+run_name: sentiment_analysis_run_with_roc
+run_uuid: 205eca4eeade4765b82491c3710188cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738074589539
+status: 3
+tags: []
+user_id: ptzlukas

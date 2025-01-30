@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/parliamentary-speech-classifier/mlruns/524324594099204524/85b0e9ef8b3c493ab585afc1c8b27a6f/artifacts
+deleted_time: 1738163664579
+end_time: 1738075073425
+entry_point_name: ''
+experiment_id: '524324594099204524'
+lifecycle_stage: deleted
+run_id: 85b0e9ef8b3c493ab585afc1c8b27a6f
+run_name: rf_hyper_param_opt
+run_uuid: 85b0e9ef8b3c493ab585afc1c8b27a6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738075069430
+status: 3
+tags: []
+user_id: ptzlukas

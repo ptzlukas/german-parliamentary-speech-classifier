@@ -1,0 +1,8 @@
+sentiment_analysis:
+  input_path: "data/processed_sentiment_data.csv"
+  model_path: "models/random_forest_model_sentiment.pkl"
+  confusion_matrix_path: "plots/confusion_matrix_sentiment.png"
+  roc_curve_path: "plots/roc_curve_sentiment.png"
+  mlflow_experiment: "Sentiment Analysis"
+  feature_importance: True
+  

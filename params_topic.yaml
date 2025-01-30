@@ -1,0 +1,48 @@
+preprocessing:
+  input_path: "data/trainings_dataset.csv"
+  topic_output_path: "data/processed_topic_data.csv"
+  sentiment_output_path: "data/processed_sentiment_data.csv"
+  stopwords_path: "resources/stopwords.txt"
+
+training:
+  model: "bagging"  # Options: "logistic_regression", "svm", "xgboost" or "bagging" (bagging_svm)
+  input_path: "data/processed_topic_data.csv"
+  output_path: "models/trained_models.pkl"
+  split:
+    test_size: 0.2 
+    random_state: 42
+  vectorizer:
+    type: "word2vec"  # Options: "tfidf", "word2vec", "spacy_word2vec", "bow"
+    max_features: 10000 #only active with vectorizer: tfidf
+    ngram_range: [1, 2] #only active with vectorizer: tfidf
+    word2vec_path: "models/word2vec.model" #only active when vectorizer word2vec
+    spacy_model: "de_core_news_lg" #only active when vectorizer spacy_word2vec
+  feature_importance:
+    enabled: False #only possible with vectorizer: tfidf
+  cv:
+    enabled: False  
+    folds: 5 
+  logistic_regression:
+    max_iter: 2000
+    C: 1.0 
+  svm:
+    kernel: "rbf" # poly, linear, rbf, sigmoid
+    C: 5.0
+  xgboost:
+    max_depth: 10.0 
+    learning_rate: 0.07
+    n_estimators: 170
+
+optimization: #those parameters only work for svm and lr optimization
+  model_name: "svm"  # Options: "logistic_regression" or "svm"
+  search_type: "grid"  # Options: "grid" or "random"
+  max_evals: 50
+  param_grids:
+    logistic_regression:
+      max_iter: [ 100, 200, 500, 1000]
+      C: [0.1, 1.0, 5.0, 10.0, 20.0, 30.0]
+    svm:
+      C: [0.1, 1.0, 5.0, 10.0, 12.0, 8.0, 15.0]
+      kernel: ["linear", "rbf", "poly"]
+
+

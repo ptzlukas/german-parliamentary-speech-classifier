@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/Bundestagsreden_NLP/mlruns/0/31707d64ff474921898cf8cf9cb3e2d5/artifacts
+deleted_time: 1736906546070
+end_time: 1736905997651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 31707d64ff474921898cf8cf9cb3e2d5
+run_name: legendary-trout-564
+run_uuid: 31707d64ff474921898cf8cf9cb3e2d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736905997641
+status: 3
+tags: []
+user_id: ptzlukas

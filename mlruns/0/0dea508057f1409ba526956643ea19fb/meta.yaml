@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/Bundestagsreden_NLP/mlruns/0/0dea508057f1409ba526956643ea19fb/artifacts
+deleted_time: 1736906546075
+end_time: 1736905072568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0dea508057f1409ba526956643ea19fb
+run_name: judicious-jay-415
+run_uuid: 0dea508057f1409ba526956643ea19fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736905072287
+status: 3
+tags: []
+user_id: ptzlukas

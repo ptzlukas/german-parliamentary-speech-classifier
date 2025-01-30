@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/topic_classifier/mlruns/176166482375069725/01b08c5006ab45e69bb7b84ed8dcf350/artifacts
+deleted_time: 1737658862219
+end_time: 1737652104578
+entry_point_name: ''
+experiment_id: '176166482375069725'
+lifecycle_stage: deleted
+run_id: 01b08c5006ab45e69bb7b84ed8dcf350
+run_name: xgboost_B_w2v_opt
+run_uuid: 01b08c5006ab45e69bb7b84ed8dcf350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737652104567
+status: 3
+tags: []
+user_id: ptzlukas

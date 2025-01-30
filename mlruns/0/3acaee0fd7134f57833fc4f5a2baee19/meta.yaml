@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/Bundestagsreden_NLP/mlruns/0/3acaee0fd7134f57833fc4f5a2baee19/artifacts
+deleted_time: 1736907746954
+end_time: 1736907134387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3acaee0fd7134f57833fc4f5a2baee19
+run_name: dapper-auk-516
+run_uuid: 3acaee0fd7134f57833fc4f5a2baee19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736907134379
+status: 3
+tags: []
+user_id: ptzlukas

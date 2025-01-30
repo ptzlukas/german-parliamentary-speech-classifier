@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/topic_classifier/mlruns/843834919423998331/b1a7c9f119ed462683e42cdc595bd1b1/artifacts
+end_time: 1737840584167
+entry_point_name: ''
+experiment_id: '843834919423998331'
+lifecycle_stage: active
+run_id: b1a7c9f119ed462683e42cdc595bd1b1
+run_name: xgboost
+run_uuid: b1a7c9f119ed462683e42cdc595bd1b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737840584149
+status: 3
+tags: []
+user_id: ptzlukas

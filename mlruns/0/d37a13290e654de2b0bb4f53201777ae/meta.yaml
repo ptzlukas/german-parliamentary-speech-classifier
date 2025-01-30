@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/Bundestagsreden_NLP/mlruns/0/d37a13290e654de2b0bb4f53201777ae/artifacts
+deleted_time: 1736906546070
+end_time: 1736906031873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d37a13290e654de2b0bb4f53201777ae
+run_name: sassy-boar-944
+run_uuid: d37a13290e654de2b0bb4f53201777ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736906031743
+status: 4
+tags: []
+user_id: ptzlukas

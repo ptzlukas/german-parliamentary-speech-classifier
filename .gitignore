@@ -1,0 +1,7 @@
+data/
+models/
+!mlruns/
+mlruns/**/artifacts/
+mlruns/**/artifacts/**
+
+.DS_Store

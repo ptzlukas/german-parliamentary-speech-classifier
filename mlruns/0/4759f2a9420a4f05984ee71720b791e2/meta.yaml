@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/Bundestagsreden_NLP/mlruns/0/4759f2a9420a4f05984ee71720b791e2/artifacts
+deleted_time: 1736906546073
+end_time: 1736906120823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4759f2a9420a4f05984ee71720b791e2
+run_name: rumbling-wasp-325
+run_uuid: 4759f2a9420a4f05984ee71720b791e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736906120691
+status: 4
+tags: []
+user_id: ptzlukas

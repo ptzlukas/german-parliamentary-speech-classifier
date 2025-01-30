@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/Bundestagsreden_NLP/mlruns/0/b490c0c4504f42a0bb3e4017d5d1b7a9/artifacts
+end_time: 1736939930595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b490c0c4504f42a0bb3e4017d5d1b7a9
+run_name: lr_params_change
+run_uuid: b490c0c4504f42a0bb3e4017d5d1b7a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736939930585
+status: 3
+tags: []
+user_id: ptzlukas

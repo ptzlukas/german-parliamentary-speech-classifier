@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/Bundestagsreden_NLP/mlruns/0/00949a666ade44789e5b23f9a3255f21/artifacts
+deleted_time: 1736938950914
+end_time: 1736910214578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 00949a666ade44789e5b23f9a3255f21
+run_name: svm_2
+run_uuid: 00949a666ade44789e5b23f9a3255f21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736910214286
+status: 3
+tags: []
+user_id: ptzlukas

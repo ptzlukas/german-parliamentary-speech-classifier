@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/topic_classifier/mlruns/176166482375069725/3bcce1beb2624240ac4d17fd6ad2dd39/artifacts
+end_time: 1737558636674
+entry_point_name: ''
+experiment_id: '176166482375069725'
+lifecycle_stage: active
+run_id: 3bcce1beb2624240ac4d17fd6ad2dd39
+run_name: bagging_svm
+run_uuid: 3bcce1beb2624240ac4d17fd6ad2dd39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737558636658
+status: 3
+tags: []
+user_id: ptzlukas

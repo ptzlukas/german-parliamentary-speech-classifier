@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ptzlukas/Desktop/Projects/topic_classifier/mlruns/843834919423998331/1dea50e589ae4407acf33911d026479c/artifacts
+deleted_time: 1737840726678
+end_time: 1737840646329
+entry_point_name: ''
+experiment_id: '843834919423998331'
+lifecycle_stage: deleted
+run_id: 1dea50e589ae4407acf33911d026479c
+run_name: svm_3
+run_uuid: 1dea50e589ae4407acf33911d026479c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737840646312
+status: 3
+tags: []
+user_id: ptzlukas
