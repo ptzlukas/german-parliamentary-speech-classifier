@@ -1,7 +1,9 @@
-# 🏛️ Germna Parliamentary Speech Classifier
+# 🏛️ German Parliamentary Speech Classifier
 
 This project provides a complete pipeline for **classifying parliamentary speeches** based on **topics** and **sentiment analysis**.  
 It includes **data preprocessing, model training, evaluation, hyperparameter optimization, and interpretability**.
+
+🔗 **Data Gathering Pipeline:** Need the raw data? No problem! Check out the dedicated pipeline here: [parliamentary-speech-pipeline](https://github.com/ptzlukas/parliamentary-speech-pipeline.git) 🚀  
 
 ---
 
