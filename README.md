@@ -56,7 +56,13 @@ conda activate parliamentary-speech-classifier
 python src/preprocess.py
 ```
 
-### 3️⃣ Train a model  
+### 3️⃣ Start MLflow Dashboard  
+```bash
+mlflow ui
+```
+Then open in browser: **[http://127.0.0.1:5000](http://127.0.0.1:5000)**
+
+### 4️⃣ Train a model  
 
 #### 📝 Topic Classification  
 ```bash
@@ -69,17 +75,6 @@ python src/train_sentiment.py --run-name "my_experiment"
 ```
 
 **Note:** The `--run-name` parameter is required for MLflow logging.
-
-### 4️⃣ Start MLflow Dashboard  
-```bash
-mlflow ui
-```
-Then open in browser: **[http://127.0.0.1:5000](http://127.0.0.1:5000)**
-
-### 5️⃣ Model Interpretability (LIME analysis for Topic Classifier)  
-```bash
-python src/topic_lime.py
-```
 
 ---
 
